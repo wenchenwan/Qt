@@ -6,7 +6,7 @@ README
 	
 |作者|ChenwanWen|
 |---|---
-|知乎|[![hao-xue-de-hai-zi-62-37]][zhihu]
+|知乎|[hao-xue-de-hai-zi-62-37][zhihu]
 
 
 ****
@@ -17,24 +17,3 @@ README
 * [day_04_coordinate](#day_04_coordinate)
 * [day_05_QMainWindow](#day_05_QMainWindow)
 * [learn_wen](#learn_wen)
-
-
-
-
-### day_01
------------
-
-
-***
----
-___
-
-
-
-标题
-------
-
-文本
-------
-
-
